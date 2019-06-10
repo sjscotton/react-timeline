@@ -14,4 +14,10 @@
 .App-main {
   padding-top: 7rem;
   background-color: #E6ECF0;
+
+  background-color: rgb(143, 223, 217);
+}
+
+.timeline-event {
+  margin: 1rem;
 }
